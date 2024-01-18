@@ -1,0 +1,6 @@
+@SocialRed_HostAddress = http://localhost:5083
+
+GET {{SocialRed_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
